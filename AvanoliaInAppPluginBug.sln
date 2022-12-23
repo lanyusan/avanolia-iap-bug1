@@ -5,6 +5,11 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvanoliaInAppPluginBug", "AvanoliaInAppPluginBug.csproj", "{F52AFA58-0AFC-4442-87AE-459940CB3F20}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1595D9A2-E6B4-4D09-AECE-79EB23556581}"
+	ProjectSection(SolutionItems) = preProject
+		Info.plist = Info.plist
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
